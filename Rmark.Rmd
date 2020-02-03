@@ -2,7 +2,8 @@
 title: "New Mark File"
 output: html_document
 ## Including Hello World Statement
-## Author: Armand-V
+## Author: Armando-V
+## Testing the overwrite bug
 ---
 
 ```{r setup, include=FALSE}
