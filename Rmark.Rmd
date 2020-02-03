@@ -2,6 +2,7 @@
 title: "New Mark File"
 output: html_document
 ## Including Hello World Statement
+## Author: Armand-V
 ---
 
 ```{r setup, include=FALSE}
