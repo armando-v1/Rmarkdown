@@ -4,6 +4,7 @@ output: html_document
 ## Including Hello World Statement
 ## Author: Armando-V
 ## Testing the overwrite bug
+## Bug Did not work
 ---
 
 ```{r setup, include=FALSE}
